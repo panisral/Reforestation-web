@@ -1,0 +1,7831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Temporary Places</name>
+	<Folder id="01C1B25A9931362E25EF">
+		<name>Temporary Places</name>
+		<Document id="แปลงปลูกป่า_กฟผ_2565_ลป." xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+			<name>แปลงปลูกป่า กฟผ 2565 ลป.</name>
+			<Snippet maxLines="0"></Snippet>
+			<Style id="PolyStyle00">
+				<LabelStyle>
+					<color>00000000</color>
+					<scale>0</scale>
+				</LabelStyle>
+				<LineStyle>
+					<color>ff0000e6</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00f0f0f0</color>
+				</PolyStyle>
+			</Style>
+			<Folder id="FeatureLayer0">
+				<name>แปลงปลูกป่า กฟผ 2565 ลป.</name>
+				<Snippet maxLines="0"></Snippet>
+				<Placemark id="ID_00000">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 4 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 4 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>48</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 4 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านชนแดน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านร้อง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>580381.659004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2098561.03554</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.76326923326999,18.98435817969971,0 99.76357551371814,18.98454778671604,0 99.76366432582323,18.9848801695859,0 99.76447566991176,18.98519060399626,0 99.76501900857673,18.98562089126305,0 99.7671617878444,18.98672480889069,0 99.75996622631612,18.98669047665041,0 99.75960927128185,18.98554827356929,0 99.75974971307949,18.98467661408565,0 99.76005606056228,18.98367093144836,0 99.76042438185982,18.982726020219,0 99.76092207112781,18.98165667661879,0 99.76089194905353,18.98079032688844,0 99.76014076995183,18.97940474021177,0 99.75916907320656,18.97820440230193,0 99.75815852037059,18.97753825227751,0 99.75695282613336,18.97659190958031,0 99.75682410881038,18.9763320546938,0 99.75677693339378,18.97557071685064,0 99.75642328539462,18.97365690769083,0 99.75577950888156,18.97244628316277,0 99.75550801501623,18.97230890275468,0 99.75537949957375,18.97217079703705,0 99.75538163255244,18.97198389319493,0 99.75565975688184,18.97201334030546,0 99.75657920278692,18.97187260477351,0 99.76048997378756,18.97275607431962,0 99.76399477936316,18.97336748687767,0 99.76423795893332,18.96887091896826,0 99.76439139884701,18.96969936455971,0 99.76525528315831,18.96969709478783,0 99.7651985527481,18.96942988591152,0 99.76554931757711,18.96925618465963,0 99.76625378815149,18.96876939377561,0 99.77131843768457,18.98351757980762,0 99.77078117996368,18.98424185886232,0 99.77059836824637,18.984232552618,0 99.77054278538155,18.98408577281225,0 99.77002270861725,18.98359765483813,0 99.76950052357758,18.98413224585941,0 99.76945380735761,18.98406358309551,0 99.76861938828974,18.984935430754,0 99.7680529722012,18.98525194940165,0 99.7672730498749,18.98460660840683,0 99.76700629163339,18.98232322204498,0 99.76718221587171,18.98203042441678,0 99.76691363081959,18.98225771125493,0 99.76652989942973,18.98235440184776,0 99.766424834256,18.98125085035164,0 99.76605784073858,18.98127018657051,0 99.76538431366188,18.98113270136918,0 99.76533318703936,18.98104979791973,0 99.76472124645673,18.98094732916024,0 99.76449919770116,18.98122463933811,0 99.76343105641718,18.98148174643325,0 99.76334912615812,18.9813864232584,0 99.76319906435209,18.98145972157655,0 99.76306030307036,18.98260525014313,0 99.7640778254046,18.98356263533764,0 99.76368525270965,18.9835159411466,0 99.76342061826878,18.98421300584507,0 99.7633540879158,18.98419180992309,0 99.76326923326999,18.98435817969971,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00001">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 8 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 8 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>45</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 8 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านชนแดน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านร้อง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>593271.484319</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2098085.13099</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายพนากิจ  สิทธิวีระกูล</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.88910813694069,18.97993516067404,0 99.88853239124984,18.98076155211944,0 99.88748533995877,18.97939352371612,0 99.88124191405507,18.96964557694043,0 99.88114282794302,18.96721018760921,0 99.89039576970825,18.96699418869017,0 99.88932866055085,18.96801276278988,0 99.88916217980966,18.96887098839053,0 99.88825077113481,18.96919239873541,0 99.88819329892722,18.96957393281739,0 99.88849305581365,18.96999737473401,0 99.88856018989381,18.97043327422344,0 99.88872694390587,18.97041394872567,0 99.8893918849125,18.97413809406426,0 99.89009100100337,18.97543217342536,0 99.88959472866533,18.97560637090314,0 99.88948342106508,18.9757677595629,0 99.88979835486077,18.97771526066851,0 99.88973217017892,18.97869235286258,0 99.89001044568951,18.97918119371061,0 99.88910813694069,18.97993516067404,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00002">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 7 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 7 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>44</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 7 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านชนแดน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านร้อง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>592425.464398</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2099020.7465</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.88226561604877,18.98998814038273,0 99.88201121710678,18.98972909715908,0 99.88200713296605,18.98967385721174,0 99.88165624687031,18.9895006597004,0 99.8816398574458,18.98906129306107,0 99.88173935900369,18.98873286013416,0 99.88146502839066,18.98885917622084,0 99.88110814799271,18.9889305983713,0 99.88141581057445,18.99081086894379,0 99.88111199385708,18.99105800037421,0 99.88069151321039,18.99121343478606,0 99.88045413442595,18.99159389766422,0 99.88016635700225,18.99179272256229,0 99.87975621880214,18.99188954515994,0 99.87944233146013,18.99206447495626,0 99.87892558503717,18.99331378190782,0 99.8787157503543,18.99322413068676,0 99.8785037293935,18.99358398881076,0 99.87839932924678,18.99430918005306,0 99.87862972402311,18.9944489661818,0 99.87842032908929,18.9946505476261,0 99.87893784777772,18.99511965092597,0 99.87935342427957,18.99513926457971,0 99.88059613060797,18.99554612519348,0 99.88042278452589,18.99626108390777,0 99.88074584222687,18.99605689703736,0 99.88137254645775,18.99641943591527,0 99.88216587929737,18.99653884358654,0 99.8830097905993,18.99607316579251,0 99.8836958359574,18.99594303956293,0 99.88339525832345,18.9976175990799,0 99.88281579627932,18.99708499465065,0 99.88127892886494,18.9967277335713,0 99.88094820679771,18.99708970678083,0 99.88058165893158,18.9972365273178,0 99.87950833695102,18.99766643828412,0 99.87912669901164,18.99812492173956,0 99.87830958971421,18.99766054398007,0 99.87847273585622,18.99718358459676,0 99.87794881010318,18.99694989614776,0 99.87762885832723,18.99734942303303,0 99.87606605294778,18.99750720990266,0 99.87562523584972,18.99603165122095,0 99.87508354409525,18.99600505918938,0 99.87454949504644,18.99583965408236,0 99.874690841253,18.99554291420977,0 99.87471948139446,18.99505417415768,0 99.87398018176906,18.99499758235513,0 99.87358302157507,18.99518062238508,0 99.87319610823633,18.99426885390061,0 99.87273173335869,18.99415952796317,0 99.87272849528337,18.99096436035048,0 99.87353409857157,18.9873570193562,0 99.87349059662237,18.98729445458271,0 99.87407683873431,18.98346370987218,0 99.87432646899828,18.97982937380985,0 99.87429318794362,18.97973091972304,0 99.87484401916724,18.977654635551,0 99.87478711767612,18.97748987843181,0 99.87539421805505,18.97516192735031,0 99.87549011931537,18.97117317333772,0 99.87643633609518,18.97000691270797,0 99.87666099685492,18.96712907388813,0 99.87765809281822,18.96784233562105,0 99.87928365480545,18.96544089998715,0 99.8801263825375,18.96422798023548,0 99.88084066692052,18.96297283726604,0 99.88226556990205,18.98998726191695,0 99.88226561604877,18.98998814038273,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00003">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/8 อำเภองาว จังหวัดลำปาง ปี พ.ศ. 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/8 อำเภองาว จังหวัดลำปาง ปี พ.ศ. 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/8 อำเภองาว จังหวัดลำปาง ปี พ.ศ. 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านหวด</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านหวด</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>600309.763693</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2063648.52731</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.95791685256897,18.65647157130699,0 99.95497336217365,18.65955718358632,0 99.94961717541214,18.66584157379369,0 99.94609661833798,18.66996546066495,0 99.94547085800534,18.66912628084324,0 99.946280234768,18.66852289222036,0 99.94564574681115,18.66748154334391,0 99.94697429045199,18.66660197375933,0 99.94602937781234,18.6643378819054,0 99.94505076813036,18.6619536460613,0 99.95437312422568,18.65480599912872,0 99.95467071876865,18.65511847305949,0 99.9555971396429,18.65419786524151,0 99.95791685256897,18.65647157130699,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00004">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 6 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 6 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>46</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 6 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านชนแดน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านร้อง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>593586.714945</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2099145.68943</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.8893918849125,18.97413809406426,0 99.89478840461675,18.96908704059647,0 99.89533816443898,18.97218325995296,0 99.89644068127612,18.97416551935918,0 99.89491365990597,18.97655387770408,0 99.89459870821547,18.97894142605801,0 99.89373215070276,18.97899224330613,0 99.89441915247556,18.9816011866667,0 99.89417162502056,18.98294081262465,0 99.8949470081766,18.98453085687742,0 99.89449017194161,18.98697860602259,0 99.89505575649009,18.98821951871053,0 99.89354657180527,18.98910122266014,0 99.89262937292582,18.98915474271017,0 99.89209749018137,18.98908551130034,0 99.89139822094825,18.98869534273799,0 99.89037756073252,18.98794720362688,0 99.89005004894011,18.98762653798454,0 99.88948869480953,18.98740062619207,0 99.88914800879193,18.98758157007311,0 99.8888339653037,18.98808238244005,0 99.88856387158972,18.98851310420212,0 99.8882075126684,18.98986560721228,0 99.88791973766831,18.99062928022822,0 99.8876794849913,18.99157757874574,0 99.88711377287356,18.99265571433277,0 99.88656679097204,18.99313070627858,0 99.88585458804076,18.99340963560791,0 99.88508571299474,18.99365681673339,0 99.88457655969535,18.99397470016427,0 99.88417027880243,18.99448887781893,0 99.88385050219736,18.99590855275773,0 99.88237750987351,18.99557149088631,0 99.87985098917619,18.99474401074655,0 99.87945200844618,18.99337274317942,0 99.88057773414629,18.99205284139499,0 99.88189056161193,18.99126121590664,0 99.88225327884193,18.99169676013927,0 99.88183745360864,18.99221444036718,0 99.88226906006889,18.99297917560404,0 99.88319055235182,18.99264192515735,0 99.88380565422442,18.99287296771117,0 99.88296611855029,18.99371012233703,0 99.88241527632911,18.99398391294,0 99.88150917959294,18.99408897876451,0 99.88119279902929,18.99453607792276,0 99.88264188862014,18.99512653287762,0 99.88312435582233,18.99473565129698,0 99.88336699346551,18.99472376098128,0 99.88366451269947,18.99492790408483,0 99.88394534904674,18.99477509358318,0 99.88389569300219,18.99429054509897,0 99.88450603608435,18.99364491618095,0 99.88488887653745,18.99361625731805,0 99.88505489541083,18.99343344611046,0 99.88477295966568,18.99265585958526,0 99.88550605557306,18.99287369872963,0 99.88581544202263,18.99264394033748,0 99.88558127290401,18.99212120017869,0 99.88590444102071,18.99187919406823,0 99.8851496380307,18.99150693655737,0 99.88447111131012,18.99089006179502,0 99.88465611128349,18.98988819388675,0 99.88447316119402,18.98963138273583,0 99.88505555645052,18.98883827816571,0 99.88502448713599,18.98827883478601,0 99.88492728743151,18.98832586726745,0 99.88496678602982,18.98782422767748,0 99.88554497611057,18.98750354272366,0 99.88525577053635,18.98693658191507,0 99.88509357496548,18.9862454371817,0 99.88548364224441,18.98549565365136,0 99.88540898203928,18.98478836805106,0 99.88600135386922,18.98367170407364,0 99.88750932635861,18.98265023572243,0 99.88802266094264,18.98197031024907,0 99.88809575611199,18.98183326643111,0 99.8881770083543,18.9817470982067,0 99.88827441062438,18.98149831172062,0 99.88910813694069,18.97993516067404,0 99.89042477861631,18.97890943583429,0 99.89005862481085,18.97745241590368,0 99.88975810203648,18.97678163191204,0 99.89008933271236,18.97651111368772,0 99.89028051659304,18.9760213376477,0 99.89014111092521,18.97539575990691,0 99.8893918849125,18.97413809406426,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00005">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 9 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 9 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>47</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 9 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านชนแดน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านร้อง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>593095.373275</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2098873.55601</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.88809575611199,18.98183326643111,0 99.88790985643699,18.98203041308692,0 99.88757553156363,18.9820422747382,0 99.88716916325711,18.98191618567955,0 99.88678752583397,18.98268016060836,0 99.88625396425098,18.98286039160293,0 99.88567371182413,18.98376815957436,0 99.88521637768739,18.98474926585825,0 99.88536821707488,18.98536373735457,0 99.88508283681948,18.98608202196577,0 99.8850622618212,18.98674332086436,0 99.88463247223103,18.98752387229394,0 99.88434361697365,18.98784500861919,0 99.88395819566975,18.9877234488264,0 99.88330795243544,18.98780990341939,0 99.8831648375937,18.98789001025427,0 99.88336180785743,18.98813688593359,0 99.88433547473755,18.988110206575,0 99.88444636017353,18.98847454109638,0 99.88364554019287,18.99002238388179,0 99.88296048115463,18.99027395690406,0 99.88226913399086,18.99005540382137,0 99.88226561604877,18.98998814038273,0 99.88226556990205,18.98998726191695,0 99.88120348846697,18.96967774571942,0 99.88848316279106,18.98096511097017,0 99.88827441062438,18.98149831172062,0 99.88809575611199,18.98183326643111,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00006">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติ ป่าแม่จางฝั่งซ้าย ที่ 1 อ.แม่ทะ จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติ ป่าแม่จางฝั่งซ้าย ที่ 1 อ.แม่ทะ จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติ ป่าแม่จางฝั่งซ้าย ที่ 1 อ.แม่ทะ จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>ทุ่งตอน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>วังเงิน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แม่ทะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>562983.756899</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>1999156.35286</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสินธพ เรือนมั่น</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.59924747431972,18.08050269862414,0 99.59653552879442,18.08336715913348,0 99.59294416222548,18.08609871473227,0 99.59068452743801,18.08297843776298,0 99.59328499548756,18.08148200505969,0 99.59409306490504,18.07928040266181,0 99.5937501620333,18.07566618853776,0 99.59768595855761,18.07425312804753,0 99.59924747431972,18.08050269862414,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00007">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปางที่ 7/ 2 อำเภอแม่ทะ จ.ลำปาง ปี พ.ศ. 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปางที่ 7/ 2 อำเภอแม่ทะ จ.ลำปาง ปี พ.ศ. 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปางที่ 7/ 2 อำเภอแม่ทะ จ.ลำปาง ปี พ.ศ. 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านแม่ทาน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>สันดอนแก้ว</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แม่ทะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>545582.566263</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>1983949.94425</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายไพโรจน์   กลัดตลาด</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.43698672340089,17.94979089786369,0 99.43544043956351,17.95077956403191,0 99.43524166567329,17.95059020162827,0 99.4355234161941,17.94995687694829,0 99.43340279606015,17.94777430900116,0 99.43254450122311,17.94820103050006,0 99.43156140208049,17.94778744705201,0 99.43151190708882,17.94684755511491,0 99.43584339385265,17.94565384510432,0 99.43549972908176,17.94413615146976,0 99.43450859312613,17.94429202471042,0 99.43418259386662,17.94226813379397,0 99.4330210335436,17.94223457190003,0 99.43219737588568,17.94135967273134,0 99.42965769353889,17.94154607460414,0 99.42748295553783,17.94034875197979,0 99.42697003310069,17.93909352937641,0 99.42506198075804,17.93883559577329,0 99.4235244555025,17.93952587817825,0 99.42260029053909,17.94004308429668,0 99.42133761287647,17.94116659954855,0 99.41905147106785,17.94075577220977,0 99.42031394727226,17.93954188701244,0 99.42302119915519,17.93835196987706,0 99.42321638037903,17.93704096293796,0 99.42358462028862,17.93703112224448,0 99.424548950551,17.93752613544459,0 99.42571019880575,17.93744224886941,0 99.42687038415407,17.93691547152418,0 99.4321720400625,17.93870241425805,0 99.43452833977904,17.94077601136589,0 99.437987911379,17.94219632419431,0 99.43913564737441,17.94428162167661,0 99.43866000376832,17.94669596881715,0 99.43678251380418,17.94738712325549,0 99.43698672340089,17.94979089786369,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00008">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 3 อ.เมืองปาน จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 3 อ.เมืองปาน จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 3 อ.เมืองปาน จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>200</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>วังฆ้อง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านขอ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>เมืองปาน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>553596.923222</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2067343.0789</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายเอกภาวิน เด็ดขาด</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.51135047969409,18.69237170671595,0 99.51016510661454,18.6932991796239,0 99.50937881286075,18.70095297136436,0 99.50850463404011,18.70074987565655,0 99.50622108558331,18.70058285120579,0 99.50569696290759,18.69819771991471,0 99.50706805126296,18.69786257664598,0 99.50716997828184,18.69705794610431,0 99.50568881597621,18.69649257054627,0 99.50576805148302,18.6944317614429,0 99.50899149195685,18.6940886474494,0 99.50900837989302,18.69339269892506,0 99.50733876934869,18.69338691628294,0 99.50731118447486,18.69255006009918,0 99.51027152939903,18.69237464467259,0 99.51135047969409,18.69237170671595,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00009">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่ตุ๋ยฝั่งซ้าย ที่ 1 อ.เมืองปาน จ.ลำ</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่ตุ๋ยฝั่งซ้าย ที่ 1 อ.เมืองปาน จ.ลำ</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>9</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่ตุ๋ยฝั่งซ้าย ที่ 1 อ.เมืองปาน จ.ลำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>200</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านปางอ่าย</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>เมืองปาน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>เมืองปาน</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>548034.310417</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2076277.39557</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายเอกภาวิน เด็ดขาด</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.45885191006309,18.77873866272495,0 99.45659975149043,18.78100359721972,0 99.4532483591527,18.78028874346595,0 99.45256847373497,18.77796770893221,0 99.45336426549157,18.77750485844284,0 99.45345055510602,18.77783904308127,0 99.45472311260583,18.77825168376929,0 99.45352363351422,18.77678145762942,0 99.45429071004754,18.77622829621017,0 99.45460244226486,18.77571239060291,0 99.45381419124277,18.77544317606313,0 99.45475857982886,18.77378698545463,0 99.45827427440216,18.77565823431202,0 99.45885191006309,18.77873866272495,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00010">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 2 อ.แจ้ห่ม จ.ล</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 2 อ.แจ้ห่ม จ.ล</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>10</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 2 อ.แจ้ห่ม จ.ล</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านไผ่งาม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>เมืองมาย</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>564618.103629</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2057366.57187</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายโกวิท  ตันกลาง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.6115175181538,18.61393101325545,0 99.60950935247261,18.61344015192849,0 99.60810662082608,18.61228945908875,0 99.60520860990364,18.60635929578309,0 99.60590838029349,18.60212458595504,0 99.6097101211317,18.59774067313848,0 99.61188424340421,18.59917301234456,0 99.61691315994788,18.60110482137806,0 99.62018543440708,18.61143973396651,0 99.61809362419648,18.6128277137775,0 99.61515180589821,18.61345528386328,0 99.61407556719212,18.61389399236838,0 99.61294109898743,18.6136585676871,0 99.6115175181538,18.61393101325545,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00011">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 4 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 4 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>18</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 4 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1300</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ตีบหลวง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แม่ตีบ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>606016.501564</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2061343.72331</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										100.0113732513612,18.65198703613499,0 100.012923589954,18.65314105805884,0 100.0134308155505,18.65330665700926,0 100.0147045789899,18.65189645761408,0 100.0154586448284,18.65050856964495,0 100.0166768815887,18.65139673609896,0 100.0168422349627,18.65235168074205,0 100.0171350633125,18.65269796716979,0 100.0172309962842,18.6530642431576,0 100.0169929783832,18.65394681534663,0 100.0163917680546,18.65445343161889,0 100.0155704878072,18.6544176942501,0 100.0153135480809,18.65424978939424,0 100.0150236252343,18.65421412917791,0 100.0148025436554,18.65445499775015,0 100.0149876470869,18.65557687332878,0 100.0140592692104,18.65616558031848,0 100.0133614233605,18.6566814919649,0 100.0126998982897,18.65755528030715,0 100.012191105875,18.6582553219573,0 100.0120046618779,18.65930287837062,0 100.0113702080701,18.65900883957023,0 100.0113806626573,18.65826035265687,0 100.0110602966171,18.65775722212481,0 100.0105471399589,18.65801282890888,0 100.0103302898086,18.65938271281408,0 100.0099127574627,18.65933295055916,0 100.0097080483253,18.65878570224366,0 100.0088968222389,18.65879979867795,0 100.0079797713965,18.65795626420455,0 100.0070547130405,18.65806589494538,0 100.0070332823992,18.65718714421892,0 100.0073141028236,18.65696733172348,0 100.0072936786552,18.65670387823516,0 100.0070428216486,18.65636683984578,0 100.006731457369,18.65612553508263,0 100.0060934622629,18.65630962815736,0 100.0058358811705,18.65576896654946,0 100.0063396769555,18.65475538826022,0 100.0066409890364,18.65451166479956,0 100.0070465696176,18.65454578286641,0 100.0072889768538,18.65476670458198,0 100.007533295431,18.65501258737299,0 100.008141466984,18.65485973750455,0 100.0085380098006,18.65462858918701,0 100.0088230628297,18.65498554641599,0 100.0091634977636,18.65477447619129,0 100.0089691270189,18.65436017060805,0 100.0093666062824,18.65382805798038,0 100.0128794224913,18.65576170492747,0 100.0130094393419,18.65481308318845,0 100.0120043433158,18.65392234137219,0 100.0111432028256,18.65457720518732,0 100.0095549600461,18.65365861281568,0 100.0111558194042,18.65223308979047,0 100.0113732513612,18.65198703613499,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										100.0113790430034,18.63104263755476,0 100.0117049376402,18.6322139342398,0 99.99180908557011,18.63907083279391,0 99.991339870894,18.63431479973312,0 99.99911999519502,18.63131811900469,0 100.0061753486176,18.62927547880961,0 100.0054812918911,18.62836606310683,0 100.0063809230106,18.62810116269899,0 100.0073235850605,18.62862234240912,0 100.0085862513768,18.62875853860881,0 100.0083234793928,18.6292125850219,0 100.0092665966201,18.62931653813608,0 100.0102762348907,18.62834445932633,0 100.0097313114212,18.62797699761346,0 100.0090643694563,18.62854087605465,0 100.0088521847555,18.62741966071729,0 100.0102546211747,18.62688634538723,0 100.0128099982726,18.62621209017846,0 100.0139786786193,18.62657237781272,0 100.0137222180965,18.62712981102565,0 100.0135567748779,18.62780020390832,0 100.0138013975416,18.62785495899145,0 100.0138031423639,18.62805779121542,0 100.0142431069195,18.62795721027003,0 100.0142082600885,18.62748454806482,0 100.0152662479949,18.62735856308794,0 100.0153732343584,18.62776905482134,0 100.015743615439,18.62780615184444,0 100.0170077497217,18.6277113743608,0 100.0171949230815,18.6280875248919,0 100.0169403470542,18.62826641942912,0 100.0169786509668,18.62942065519543,0 100.0168858965326,18.62939589303949,0 100.0171435224637,18.63013009782947,0 100.0166927189729,18.63108398428277,0 100.0149677708181,18.63146706517198,0 100.0139242277184,18.63189706360625,0 100.0133726186238,18.63212435398352,0 100.0128845155109,18.63229059448194,0 100.0124125847292,18.63083868673704,0 100.0113790430034,18.63104263755476,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00012">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 2 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>20</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ตีบหลวง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แม่ตีบ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>606565.45964</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2062235.08338</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายวรรณวัฒน์ รอดเมือง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										100.0113732513612,18.65198703613499,0 100.0105262697194,18.6512772899376,0 100.009654325846,18.6515507835628,0 100.0065024733956,18.65082872106534,0 100.0057755846593,18.65115130007018,0 100.0051370995419,18.65101795505651,0 100.0045416152689,18.65059299723228,0 100.0033747780881,18.6498577633812,0 100.0022209408707,18.64905114668296,0 100.0145108466943,18.64375951385242,0 100.0150600091602,18.6439121259747,0 100.0157604936435,18.64428905228255,0 100.0152091356449,18.64445561916331,0 100.0159964466131,18.64546223694453,0 100.0171002158744,18.64535858199759,0 100.0169978774354,18.64665850014008,0 100.0164699478186,18.64722801020255,0 100.0164190766395,18.64822913508968,0 100.0167154575655,18.64854884855164,0 100.0154421237519,18.65051278063507,0 100.0146260352309,18.65188704323593,0 100.0133858923217,18.65316503276397,0 100.0113732513612,18.65198703613499,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00013">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 6 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 6 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 6 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ตีบหลวง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แม่ตีบ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>606169.462359</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2063957.20132</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายพนากิจ  สิทธิวีระกูล</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										100.012051527074,18.66548971409361,0 100.011921631827,18.66722690575846,0 100.0114163234057,18.66799143966734,0 100.0100376547806,18.66722965861998,0 100.0096199554012,18.66579564900294,0 100.0092131589283,18.66543938098432,0 100.0088194807332,18.66542551521325,0 100.008761998287,18.66587522481378,0 100.0088207479988,18.66638786377437,0 100.0086549211198,18.66722527295036,0 100.0080214517332,18.66748316482153,0 100.0065541492132,18.66731420495102,0 100.0056821660709,18.66721379116249,0 100.0050257542288,18.66734015100552,0 100.0047453055652,18.66773473676741,0 100.0027570357718,18.66763474265095,0 100.0023312031102,18.66669572606461,0 100.0009994481212,18.66645031466707,0 100.0009358053798,18.66510933581299,0 100.0011392322256,18.66385319425495,0 100.0011813785952,18.66261986190232,0 100.0015324660273,18.66144843633992,0 100.0016842903201,18.66035015209883,0 100.0121446594571,18.66108094657806,0 100.0120309289237,18.66179839216715,0 100.0124516830495,18.66169670641578,0 100.0126338380466,18.66178475589761,0 100.0126872714439,18.66264338739478,0 100.0125929373491,18.66305459606457,0 100.012283723395,18.6630872692396,0 100.0120102002874,18.66335180683705,0 100.0120621370162,18.66408827784032,0 100.0118912258121,18.66483277056896,0 100.012051527074,18.66548971409361,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00014">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 3 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ตีบหลวง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แม่ตีบ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>606065.329882</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2058942.75669</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายพนากิจ สิทธิวีระกูล</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										100.0131990127293,18.61919218692736,0 100.0137339148968,18.6196493418261,0 99.99864502278962,18.62309937135674,0 99.99842264806797,18.62153062504508,0 99.99837608762563,18.62054296141855,0 99.99808982727005,18.61935069902651,0 99.99899317230607,18.61889095892392,0 100.001964180635,18.61636415214164,0 100.0092356537116,18.61413287737436,0 100.0098848960303,18.61418037383162,0 100.0095441453825,18.61440242437054,0 100.0092246548689,18.61554966831836,0 100.0084026227848,18.61577013968085,0 100.0084361668247,18.61605620129031,0 100.0081813029181,18.61664985178248,0 100.0077111849794,18.61705118998719,0 100.0077295912312,18.61732908927471,0 100.0091499690098,18.61672874421586,0 100.0093210122601,18.61707924902464,0 100.0086738967914,18.6172649513235,0 100.0087714578549,18.6175532235581,0 100.0091125045295,18.61796961468587,0 100.0094085356919,18.61797113420404,0 100.009540307833,18.61735505944066,0 100.0100248381174,18.61719587531834,0 100.0110003874009,18.61808755483266,0 100.0114160257439,18.61736379184253,0 100.0117597571649,18.6171395737347,0 100.0118861369011,18.6177887180392,0 100.012015285621,18.6181018688684,0 100.0121741456371,18.61870261083955,0 100.0126779139291,18.61867732311791,0 100.0128050363468,18.61884844997042,0 100.0128468056463,18.61884537404542,0 100.0131990127293,18.61919218692736,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00015">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 5 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 5 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 5 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>700</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ตีบหลวง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แม่ตีบ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>605402.333138</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2062420.08856</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสหรัฐ แก้วมุกดา</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										100.0058358811705,18.65576896654946,0 100.0009387321504,18.65413457165459,0 99.99883651267878,18.65354643027063,0 99.99077371743894,18.649995970152,0 99.99060795101211,18.64913148161919,0 99.99051922516117,18.64727127122559,0 99.99063869426216,18.64654925658775,0 99.99168366232665,18.64496732026743,0 99.99217918910146,18.64481785701695,0 99.99510806400488,18.64560179508166,0 99.99664230179985,18.64542602739808,0 99.99817174439151,18.64512822179709,0 99.99961270412918,18.64666127334612,0 100.0015469314794,18.64871520077804,0 100.0051515038131,18.65108619163337,0 100.0084021484974,18.65191771317691,0 100.0092610977639,18.65213742327062,0 100.0086428099894,18.65303783867988,0 100.008389942772,18.65342063432509,0 100.0080446921951,18.65374857606805,0 100.0080149071998,18.65384815983302,0 100.007746933044,18.65417251185435,0 100.0078163058064,18.65420902300056,0 100.0076890832893,18.65435674291895,0 100.0074489300162,18.65451503868822,0 100.0072830385943,18.65466313195114,0 100.0069506168121,18.65434673336054,0 100.0069187142141,18.65436066481107,0 100.007012932906,18.65453543062628,0 100.0066431695312,18.65450200893481,0 100.0063259896787,18.65474894234214,0 100.0062690189001,18.65488185316852,0 100.0058358811705,18.65576896654946,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00016">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 8 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 8 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>26</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 8 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านร่องต้า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านหวด</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>597451.242858</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2066407.33215</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายศักดิ์สิทธิ์ ปลาสุวรรณ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.92784580426499,18.70045150687209,0 99.9278034318455,18.70126988477759,0 99.92716861924804,18.70127302485008,0 99.92627724754364,18.70002786375242,0 99.92602948221716,18.70039602352826,0 99.92528742554812,18.69981457218793,0 99.92484036994639,18.69989611554494,0 99.92449056079091,18.69967966204354,0 99.92719461283501,18.69844136970344,0 99.92746535550306,18.69867324683176,0 99.92879316045946,18.69860222033067,0 99.92963532709102,18.69849217585832,0 99.93040504657695,18.69820011450379,0 99.93036833986706,18.69852784630386,0 99.93035374626015,18.69887643247476,0 99.93004583278157,18.69939155838439,0 99.92978460609962,18.6998959703009,0 99.92958521899781,18.6997635651121,0 99.92917357912673,18.70061352412773,0 99.92845440752792,18.70041378408218,0 99.92784580426499,18.70045150687209,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.90607590956522,18.68387344000556,0 99.91108537700616,18.69146562435739,0 99.90934805354188,18.6925451154747,0 99.9085994361738,18.69266775053986,0 99.90736927505417,18.69298981670443,0 99.90676216727888,18.69354935786451,0 99.90652812978573,18.69357032368361,0 99.90557205553172,18.69361409958924,0 99.90433038168719,18.69073239037613,0 99.90457709648082,18.69042481842239,0 99.90542542117132,18.6836075735743,0 99.90598235743735,18.67973219694006,0 99.90651338076609,18.67979409540808,0 99.90873530027515,18.6798478131565,0 99.90937760124469,18.68126286838874,0 99.90974539670599,18.68193545921691,0 99.91002682468846,18.68202334950848,0 99.91031116677428,18.68265667451151,0 99.91013792418059,18.68334180433435,0 99.91012023694134,18.68392700761162,0 99.91114037173709,18.6839914782221,0 99.91224813087692,18.68584557831653,0 99.91177222069955,18.68636358850772,0 99.90673545589631,18.68070664989246,0 99.90607590956522,18.68387344000556,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.95743251267452,18.68628615119459,0 99.95691378345846,18.68656647672257,0 99.95672063388355,18.68552616278797,0 99.95625009511919,18.68512195853861,0 99.95637034513834,18.68429822285027,0 99.95599451852883,18.68408196068199,0 99.95464195281077,18.68411859806604,0 99.95454230445496,18.68304805371555,0 99.95489559347611,18.6829570016388,0 99.95542377525891,18.68250804152827,0 99.95631753851399,18.68230514627247,0 99.95743251267452,18.68628615119459,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.95488159622663,18.6809405915189,0 99.9547846703785,18.68131582062726,0 99.9546148018061,18.6814643175459,0 99.95432521005633,18.68196223474365,0 99.95450565922987,18.68207883858922,0 99.95457933116906,18.68222722086045,0 99.95446642478539,18.68250547563144,0 99.95417587528279,18.68265075154812,0 99.95384320245492,18.68270698729723,0 99.95354686671733,18.68274816204096,0 99.95356064433416,18.6824208255071,0 99.95378015066331,18.68230450465301,0 99.95350639072456,18.68217458377095,0 99.95357600593893,18.68140233804597,0 99.95372527886988,18.6810524669416,0 99.95387623583645,18.68100365639405,0 99.95393087431179,18.68055817936932,0 99.95407820151601,18.68046134466465,0 99.95488159622663,18.6809405915189,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.94502007422221,18.67162951577491,0 99.94503336395003,18.67215010050806,0 99.9448135583679,18.67285532612126,0 99.94452246578606,18.67290141829176,0 99.94449363975617,18.67333296080485,0 99.94421580738076,18.67389467883756,0 99.94413083726597,18.67358271536953,0 99.94371458144997,18.67357489098393,0 99.94350051033229,18.67343712574423,0 99.9437155311029,18.67280630472586,0 99.94318991565504,18.67277919430693,0 99.94304342278888,18.67263117265113,0 99.943177591137,18.67243215501645,0 99.94312920571286,18.67214975794374,0 99.94291984420387,18.67196116031896,0 99.94273773245686,18.67191866997867,0 99.94276341599445,18.67185903853797,0 99.94301715792018,18.6716445447317,0 99.94319242453791,18.67153528696038,0 99.94348918630739,18.6715049714788,0 99.94372326436151,18.67138314993454,0 99.94384121013158,18.67102759999162,0 99.94386459719817,18.67059898203642,0 99.94424982321587,18.67064167272268,0 99.94437583493364,18.67084929987341,0 99.94511231653802,18.67137616313087,0 99.94556580671481,18.67042147202056,0 99.94745105657584,18.67136292673219,0 99.94728795521517,18.67154866689733,0 99.94697622195221,18.67162461856586,0 99.9456752521981,18.67156671366224,0 99.94557783565376,18.67182505121974,0 99.94521245489661,18.67160871294058,0 99.94502007422221,18.67162951577491,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00017">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>600</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านสบเอิม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านโป่ง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>592889.184047</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2072690.77957</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายศักดิ์สิทธิ์ ปลาสุวรรณ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.88794833815246,18.73868629992332,0 99.8866645823577,18.73963683354968,0 99.88581604228514,18.74091032700379,0 99.88558268355004,18.74127899892354,0 99.88506464542377,18.74332775295106,0 99.88494083402853,18.74493390006606,0 99.88543945479422,18.74549821010272,0 99.88547542531862,18.74580892235186,0 99.88514318285043,18.7458981456661,0 99.8851270315029,18.74600889364908,0 99.88604802351078,18.74690052869323,0 99.88642641102074,18.74674910892264,0 99.88667319671032,18.74702417570459,0 99.88721840656518,18.74749614937373,0 99.88743397832779,18.74819988076295,0 99.88739426975143,18.74913767531734,0 99.8870388492317,18.74959444104374,0 99.88598043875812,18.7503343132106,0 99.8848251416651,18.75049649066964,0 99.88349138950167,18.75029915886423,0 99.88191427323544,18.74900624086273,0 99.88169167744265,18.74895708539311,0 99.88152916793595,18.74885491432862,0 99.88136074789834,18.74862007505712,0 99.88128248503233,18.74840854415369,0 99.88127773332592,18.74808901461703,0 99.88107679570031,18.74785446916259,0 99.88081874891182,18.74791169138253,0 99.88035131994252,18.74748697240738,0 99.87951819294992,18.7454136494378,0 99.87957694147249,18.74512644504288,0 99.8792360259223,18.74472316049574,0 99.87862160595198,18.74494504283218,0 99.87803926613826,18.74446897953566,0 99.87657210400383,18.74326112727666,0 99.8743114267849,18.74225618039,0 99.87317057705276,18.74178606109741,0 99.87385708362861,18.7401077316506,0 99.87432973112971,18.73877038268499,0 99.87489929856025,18.7383896671089,0 99.87790111661832,18.73845147487507,0 99.87742150195093,18.74023903186034,0 99.87759046335437,18.74140257032352,0 99.878409214819,18.74217495029319,0 99.87946877997068,18.74224759656137,0 99.88207433907711,18.74192484680625,0 99.88223567486749,18.74161359849493,0 99.88239418692851,18.74075900888438,0 99.88239257428312,18.74044852858378,0 99.88255189210248,18.73974917941913,0 99.88279631037457,18.73974802682132,0 99.88368968603893,18.73920045771704,0 99.88368605262815,18.7385018769287,0 99.88352068597749,18.73803692521436,0 99.88423257246849,18.73735773756626,0 99.88643067096571,18.73687986663792,0 99.88794833815246,18.73868629992332,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00018">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/6 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/6 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>28</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/6 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>400</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านสบเอิม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านโป่ง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>593091.086774</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2071740.64415</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายศักดิ์สิทธิ์ ปลาสุวรรณ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.87790111661832,18.73845147487507,0 99.87489929856025,18.7383896671089,0 99.87432973112971,18.73877038268499,0 99.8743390695758,18.73800390903686,0 99.87395670521487,18.73713138223253,0 99.87553495791587,18.7375148763696,0 99.87602945994486,18.73710112196735,0 99.87619075407956,18.7359277612853,0 99.87666068741299,18.73493810299809,0 99.87719475409114,18.73382471177286,0 99.87652190468359,18.73314898521374,0 99.87684334060124,18.7326743229575,0 99.87712688317781,18.73217926655422,0 99.87829208804152,18.73202980027847,0 99.87887293496705,18.73161563392655,0 99.87919489345109,18.7312438256772,0 99.87926966154266,18.73105518489961,0 99.88085117557642,18.73211035325811,0 99.88251362356675,18.73208195318941,0 99.88452885972653,18.73223491831698,0 99.88542309630778,18.73207215970121,0 99.88677299150896,18.73198774992769,0 99.88667927681222,18.73309940850575,0 99.88719799646472,18.73403296039316,0 99.89223452718431,18.73687146948699,0 99.89078262361194,18.73725616310399,0 99.8909212334776,18.73848328484936,0 99.88794833815246,18.73868629992332,0 99.88643067096571,18.73687986663792,0 99.88423257246849,18.73735773756626,0 99.88352068597749,18.73803692521436,0 99.88302701289861,18.73710778983792,0 99.88310606429212,18.73664168542347,0 99.88416236463824,18.73609334499552,0 99.8852178502609,18.73538975918729,0 99.88521259412646,18.73438069813959,0 99.88415226862966,18.73415284268218,0 99.88154441754499,18.7340098952331,0 99.87918298792808,18.73425386584963,0 99.87877924861512,18.73495436029961,0 99.87902928131957,18.73603989599329,0 99.87846941694006,18.73806069821587,0 99.87790111661832,18.73845147487507,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00019">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>200</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านสบเอิม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านโป่ง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>596677.227056</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2072548.59539</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นางพิมรดา ประทุมเหง่า</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.9208504443815,18.74503667868664,0 99.92070547401518,18.74485472800728,0 99.92030643455625,18.74499828803991,0 99.9199774245581,18.74440768027681,0 99.9199351732598,18.74404978678083,0 99.92013261102123,18.74389431680549,0 99.9199413942852,18.74343630811212,0 99.91963365610191,18.74305652133501,0 99.91906730021623,18.74338535235212,0 99.91882229157112,18.7433880537533,0 99.91877513108774,18.74328387532927,0 99.91886117404815,18.74292955829111,0 99.91911090469397,18.74282372233523,0 99.91933784523592,18.7423956895685,0 99.91900063704757,18.74208913856221,0 99.9191578544536,18.74199262393937,0 99.91923441142212,18.74125441877332,0 99.91946059883496,18.74085554567561,0 99.9196102691724,18.74034357690844,0 99.91940575501779,18.74027192767989,0 99.91969157571994,18.73976161614217,0 99.91984724452847,18.73974324982181,0 99.92000252943392,18.73997332343738,0 99.92043001598536,18.73988890458412,0 99.92049887038334,18.74054514875262,0 99.9202792310966,18.74147583214537,0 99.92014223762928,18.7414741569748,0 99.92013338964807,18.74182882883307,0 99.91991259892099,18.74213045787084,0 99.91997943929699,18.74248886860676,0 99.92111054061411,18.74239303901464,0 99.92123002585927,18.74284348588893,0 99.92157634901862,18.74300586656721,0 99.92179952210631,18.74310043044665,0 99.922071878148,18.74302899055832,0 99.92257401133108,18.74344751264046,0 99.92178751406897,18.74443512708247,0 99.9208504443815,18.74503667868664,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.91651773704326,18.74378887367675,0 99.91676512977794,18.74413213738834,0 99.91625279469449,18.74446462574083,0 99.91591822175415,18.74361538914824,0 99.91574293470929,18.74369315734929,0 99.91549335715713,18.74357321558229,0 99.91562694191727,18.74310938170234,0 99.91609533521056,18.74355003683543,0 99.91668415062237,18.74302733930857,0 99.91709266598828,18.74298688541979,0 99.91708359312173,18.74344144991805,0 99.91651773704326,18.74378887367675,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.91472828852974,18.7415598966084,0 99.9141654117096,18.74178177724541,0 99.91363802732025,18.74224728004065,0 99.91206219043947,18.74286913111791,0 99.9117678770784,18.74262091115567,0 99.91143215437266,18.74229874991445,0 99.91270219437055,18.74220739575275,0 99.91342250854794,18.74195085956845,0 99.913126575821,18.74136454039191,0 99.91285670174469,18.74114618133882,0 99.91310632736882,18.74117635557857,0 99.91312388668796,18.7409743684246,0 99.91348088108973,18.74059226640773,0 99.91365990106995,18.74124441123896,0 99.91407399397062,18.74137961376036,0 99.91464324437149,18.74096418360536,0 99.91502039225838,18.74054000696771,0 99.91572884539752,18.74000034806614,0 99.91570490297354,18.73962728342748,0 99.91583561064758,18.73946192986329,0 99.91642166662916,18.73954652171635,0 99.91675371547235,18.73994485227679,0 99.91661478007546,18.74017604434137,0 99.91606692616688,18.74066284475682,0 99.91570189744846,18.74097716529002,0 99.91472828852974,18.7415598966084,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.91121435201799,18.74104557825882,0 99.91092277065624,18.74098441980547,0 99.91090331683665,18.74028710557884,0 99.91108242466026,18.74017415033067,0 99.91130995799649,18.73988680574469,0 99.91194214510398,18.73953049387593,0 99.91252687602743,18.73941593659924,0 99.91237309685772,18.74029094407548,0 99.91262971720032,18.74100841636197,0 99.91204503163763,18.74057144444245,0 99.91121435201799,18.74104557825882,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00020">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 3/5  แปลงที่ 1 อ.แจ้ห่ม จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 3/5  แปลงที่ 1 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>15</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 3/5  แปลงที่ 1 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>591897.134713</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2076641.33745</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายวชิรวิชญ์ เพชรประสิทธิ์กุล</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.88349399711981,18.78365217190005,0 99.87352326047238,18.78380911813774,0 99.87343519161436,18.78294607607992,0 99.87069856678751,18.78224829560158,0 99.86874452446689,18.78210110456495,0 99.86645560511769,18.78256891540329,0 99.86406613286331,18.78352420881937,0 99.86191936821747,18.78140800558387,0 99.86129296283916,18.77698665108874,0 99.86631958931893,18.77434917566993,0 99.86938881852706,18.77494241305394,0 99.8771279810654,18.77799663474688,0 99.87851914280168,18.77772373475297,0 99.88039823159376,18.77855155696015,0 99.88201218003779,18.77982887679914,0 99.88290766686228,18.78035418278604,0 99.88349399711981,18.78365217190005,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00021">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 2 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>37</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านแม่ฮ่าง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>นาแก</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>592346.104555</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2080671.20605</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นางพิมรดา ประทุมเหง่า</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.87937077003896,18.81249000016875,0 99.8788370148303,18.81448617302877,0 99.88049882212781,18.81738386042953,0 99.87888319000376,18.81900695960644,0 99.87803737946061,18.81897236259042,0 99.87481054748419,18.81704306672864,0 99.87206142878206,18.81427645764575,0 99.87271577576304,18.81268384527278,0 99.87362379156126,18.81278502144124,0 99.87556562972532,18.81383523646012,0 99.8763804296464,18.81514521922442,0 99.87937077003896,18.81249000016875,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00022">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 3 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>38</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>200</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านแม่ฮ่าง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>นาแก</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>592067.328856</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2080944.33593</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายวโรธัช นะทีสี</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.87803737946061,18.81897236259042,0 99.87717538283168,18.81932713628647,0 99.87422283488425,18.82220601624521,0 99.87114408290445,18.81896231719285,0 99.87161707889638,18.81764006582874,0 99.86990440103361,18.81756545842507,0 99.8712013687762,18.81531216105149,0 99.87091800187645,18.81440409121405,0 99.87206142878206,18.81427645764575,0 99.87481054748419,18.81704306672864,0 99.87803737946061,18.81897236259042,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00023">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 4 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 4 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>39</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าสงวนแห่งชาติป่าแม่งาวฝั่งซ้าย ที่ 4 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านแม่ฮ่าง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>นาแก</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>592519.08925</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2080080.48674</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสกรีน โนฤทธิ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.87937077003896,18.81249000016875,0 99.8763804296464,18.81514521922442,0 99.87556562972532,18.81383523646012,0 99.87362379156126,18.81278502144124,0 99.87271577576304,18.81268384527278,0 99.87298452027005,18.81202975003707,0 99.87934710131147,18.80688417770217,0 99.88052728687066,18.80564149393781,0 99.88119635028529,18.806431141182,0 99.88166570396585,18.80628401475641,0 99.88226880379301,18.80729499957641,0 99.88183268267098,18.80806747775338,0 99.8827987646003,18.80829078444684,0 99.88280765817936,18.80972561626135,0 99.87937077003896,18.81249000016875,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00024">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 3 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านแม่ฮ่าง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>นาแก</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>594109.003197</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2084487.4702</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสุทัศน์  สสิพรรณ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.89152875206391,18.84472708961303,0 99.89532417061025,18.84608655601642,0 99.89674902095199,18.84756158629185,0 99.89617893693759,18.8492000292581,0 99.89515974632911,18.85063872980379,0 99.89700157316268,18.85188984634619,0 99.89788570634963,18.85249040679365,0 99.90099716540053,18.85289120821808,0 99.90120246216996,18.854361809642,0 99.89825694813412,18.85602093427409,0 99.8961595549716,18.85796151473447,0 99.89582524041897,18.85758164076974,0 99.89691357932695,18.85633543080995,0 99.89573096723488,18.85624159723827,0 99.89269224893427,18.8560004569433,0 99.8918158000665,18.85554181302583,0 99.89286923425229,18.85464860380305,0 99.89430341084422,18.8527213963267,0 99.89416407613118,18.85065537108495,0 99.89259943261189,18.84903535019396,0 99.88913587847719,18.84710707010595,0 99.88470242288523,18.84460328535599,0 99.88519565363259,18.84379533642074,0 99.88640283567042,18.84289089820839,0 99.89152875206391,18.84472708961303,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00025">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/6 แปลงที่ 2 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/6 แปลงที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>41</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/6 แปลงที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>800</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านแม่ฮ่าง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>นาแก</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>592174.170026</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2082099.02066</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายศักดิ์สิทธิ์ ปลาสุวรรณ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.88682334874096,18.83363074549409,0 99.8868950949971,18.83433395503134,0 99.88656646472266,18.83470118025094,0 99.88698390376466,18.83550920327009,0 99.88600600133888,18.83595903838409,0 99.884873540705,18.83631998719411,0 99.88437394094825,18.83653064679152,0 99.88395390220316,18.83615309245543,0 99.88368670815673,18.8352564055299,0 99.88276078855243,18.83481644556688,0 99.88173943990574,18.83471945063225,0 99.88160799128553,18.83468150077067,0 99.88160679553275,18.83398643956544,0 99.88183620250685,18.8336830541885,0 99.88193648934129,18.83302260073049,0 99.88196876856432,18.83288326833017,0 99.88203402889881,18.83273929027637,0 99.88238361923821,18.83240671535632,0 99.88224412881863,18.83175936706027,0 99.88309852661357,18.83163909188198,0 99.88345776850203,18.83144812963724,0 99.88383288086368,18.83140233041063,0 99.88370692114634,18.83166406055462,0 99.88394220605097,18.83187791691528,0 99.88446903660845,18.83148036304782,0 99.88503854281119,18.83096411845148,0 99.88493698127955,18.83073191708261,0 99.88507461171594,18.83047737843101,0 99.88475338447155,18.83032773253407,0 99.88404442793983,18.83089384678409,0 99.88294464135102,18.83054135698334,0 99.88257919688284,18.82987542615546,0 99.88268163732381,18.82898960552217,0 99.88261174872845,18.82830775334156,0 99.88434473029835,18.82888584385609,0 99.88582346909737,18.82764641253404,0 99.88626347846596,18.82759922044411,0 99.88820807822117,18.8288751821059,0 99.8872336701008,18.82937971302534,0 99.88598335064326,18.83010772587194,0 99.88739714856401,18.83119798547899,0 99.89057892289485,18.83364926744361,0 99.88979181843942,18.83423683272105,0 99.88880241320987,18.83466738696729,0 99.88788640061313,18.83426443460699,0 99.88758132254361,18.83356233688943,0 99.88682334874096,18.83363074549409,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.86191716627073,18.83652965421658,0 99.86142969597859,18.83618505061239,0 99.86140100040855,18.83590800032909,0 99.86050399964968,18.83200899998387,0 99.85896999964609,18.83182699967974,0 99.8592375664838,18.83084764789859,0 99.86006556276186,18.83078335089112,0 99.86064720997214,18.83064157187239,0 99.86124586234875,18.83122311281931,0 99.86319382526415,18.83119325134803,0 99.86207440176993,18.83173719261656,0 99.86304469226008,18.83338265856262,0 99.86360498182492,18.8323002964023,0 99.86478687039715,18.83198502923107,0 99.86488729906749,18.83199973734525,0 99.86543220675739,18.83159571021312,0 99.86625447350289,18.83387781081395,0 99.86504113127135,18.83426703536979,0 99.86466997492981,18.83450513463279,0 99.86462387655989,18.83498837755699,0 99.86400960639379,18.83517621692695,0 99.86352066559266,18.83559984887396,0 99.86305854735112,18.83599252466657,0 99.86295838618021,18.83645803305474,0 99.86257697513346,18.83627480902819,0 99.86191716627073,18.83652965421658,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.86889669298643,18.82937056609091,0 99.86799510357589,18.83009133988177,0 99.86748136647512,18.83007901356894,0 99.8671080923699,18.83002452004327,0 99.86719490700197,18.82956577992329,0 99.86751462744965,18.82912537122842,0 99.86933700019368,18.82531900005734,0 99.86815100018053,18.82515099964451,0 99.86911400404341,18.82298599401589,0 99.86964018823397,18.82180301211687,0 99.87071493667074,18.81938667938821,0 99.8713119332151,18.81950254024717,0 99.87175382907537,18.82108084064357,0 99.87129175814434,18.82210629684969,0 99.87272077333978,18.82207302500557,0 99.87381493393048,18.82255143875008,0 99.8723044713324,18.82384554971766,0 99.87045827496244,18.82587087149842,0 99.87035385745537,18.82729741116315,0 99.8711457138418,18.82769811590585,0 99.87161160834813,18.82846217548739,0 99.87052027016657,18.82995185920131,0 99.86991259203913,18.82986955816015,0 99.86964443791416,18.82916133079845,0 99.86889669298643,18.82937056609091,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.85443963828267,18.82856931076216,0 99.85449686198731,18.82888295407444,0 99.85423273725073,18.82907552047789,0 99.85352021340741,18.82857079051973,0 99.85286826597387,18.82862641140949,0 99.85264661387239,18.82821380109207,0 99.85243470737394,18.82775799304957,0 99.85194180726293,18.82717778605639,0 99.85178620744179,18.82697391067118,0 99.85160251608025,18.82698183124205,0 99.85151657957039,18.82700837338434,0 99.85113447967457,18.82673996788988,0 99.85042241801693,18.82649012434011,0 99.84977789819136,18.82648596803785,0 99.84935251358354,18.82634955796433,0 99.84876057580205,18.82643029585902,0 99.84847630343083,18.82702887914648,0 99.84820685228955,18.82745264308671,0 99.84765200567828,18.8267510589642,0 99.84702837230493,18.8257109541805,0 99.84677616037732,18.82519592680942,0 99.8468812656385,18.8249715687229,0 99.84754529552244,18.82517360353146,0 99.84767410201411,18.82524202684595,0 99.84769676945291,18.82544158875457,0 99.84902323934578,18.82556945284375,0 99.85123114138553,18.82646594498404,0 99.85167450552188,18.82663642956085,0 99.8524417739914,18.82706500468095,0 99.85327199974208,18.82728700041266,0 99.85549699971345,18.82692999994261,0 99.8569129996212,18.82686900015923,0 99.85737599974208,18.82592800000007,0 99.85768157529097,18.8260749666427,0 99.85900132168297,18.82708650202388,0 99.85831623668798,18.82781203975445,0 99.85717167135759,18.82768398933185,0 99.85666251191475,18.82802205321738,0 99.85618706597594,18.82862374334627,0 99.85549585287951,18.82853442142845,0 99.85489379266909,18.82767264922652,0 99.85406787580008,18.82794341407911,0 99.85443963828267,18.82856931076216,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.89321344515726,18.82676375774484,0 99.89192049641603,18.82760322681125,0 99.89155107897933,18.82729071828193,0 99.89149134113762,18.82712377549642,0 99.89192153249832,18.82656512305188,0 99.89227763320281,18.82628686224916,0 99.89220828786395,18.82604187711052,0 99.89182778047879,18.82578449431606,0 99.89134202159852,18.82584698901562,0 99.89117305984216,18.82576139588462,0 99.89056163382818,18.82534465507522,0 99.89021398612472,18.82555730354429,0 99.89026423456779,18.82615966879658,0 99.89069362904785,18.82711812286109,0 99.88854115222412,18.82530671663993,0 99.88965286519658,18.8250774473192,0 99.89044066687931,18.82469702788502,0 99.89122048420569,18.82492184484717,0 99.89167530376423,18.82521474595028,0 99.89203771612212,18.82549767287833,0 99.89309024624187,18.82552619134426,0 99.89331728535889,18.82479725267287,0 99.89355331035193,18.82484896547403,0 99.89372482054829,18.82579971117917,0 99.89481399792834,18.82586391644111,0 99.89562656770048,18.82578595694603,0 99.8964461144429,18.82526708439808,0 99.89742294805677,18.82526676919352,0 99.89787193096758,18.82526022381796,0 99.89902249789795,18.82498622027293,0 99.89993044413711,18.8247920666854,0 99.90037787694483,18.8248361930764,0 99.90084450574976,18.82483393920818,0 99.90105542508533,18.82488692044715,0 99.90128081080529,18.82515176369897,0 99.90165995724631,18.8255180811399,0 99.90193864348298,18.82575757642747,0 99.90172927899519,18.82628387701764,0 99.90141902277678,18.82634012682738,0 99.90072934565615,18.82607031501716,0 99.8977764883436,18.82582415752072,0 99.89639904425239,18.82616834847708,0 99.89586936661409,18.82650415532199,0 99.89519517168202,18.82629002365218,0 99.89471678690406,18.82670717769594,0 99.89430873765981,18.82713507254113,0 99.89405399995142,18.82689499977845,0 99.89391766506822,18.82702619716207,0 99.89344791771109,18.82675106332854,0 99.89321344515726,18.82676375774484,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00026">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 5อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 5อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>42</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งซ้าย ที่ 5อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านขุนแหง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>ปงเตา</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>603733.674124</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2084669.48591</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.99083824129208,18.85167574655471,0 99.98818776915743,18.85513466068643,0 99.98776960167547,18.85924832382926,0 99.98634049208351,18.85952024601841,0 99.98641058288291,18.86016513785088,0 99.98332340539712,18.8601869369021,0 99.98314967862773,18.85769329117556,0 99.981878555593,18.85755762677136,0 99.98180686376244,18.85516751202015,0 99.98202296892684,18.85355086266825,0 99.98076350237156,18.85286712700473,0 99.97922490263662,18.85170765420975,0 99.97837251609934,18.85022927256362,0 99.97804382109628,18.84872232066512,0 99.97810678913824,18.84766590167331,0 99.97910867797,18.84778414716683,0 99.97947343020076,18.84712145631698,0 99.98038439814184,18.84712289740248,0 99.98043804129421,18.84787909927426,0 99.98124691844573,18.84756412821995,0 99.9802443307003,18.84637962372407,0 99.97957678588209,18.84616899437594,0 99.97931184535904,18.84534736685075,0 99.98171421871754,18.84510580295776,0 99.98187510722911,18.84461851330491,0 99.98306612978993,18.84362341418461,0 99.99041710064421,18.84356379468259,0 99.98984942359647,18.84399036487257,0 99.98931386284849,18.8452374808223,0 99.99083824129208,18.85167574655471,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00027">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 6 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 6 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>43</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่โป่ง ที่ 6 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาแรม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านร้อง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>602451.69903</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2085722.53527</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายประกาสิทธิ์ นางวงค์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.98025784540221,18.86775434465588,0 99.97663149342422,18.86916107122088,0 99.97292898852773,18.86549511234463,0 99.96990746995209,18.8642038475709,0 99.96878546659015,18.86269927924834,0 99.96815207458513,18.86292138533219,0 99.96697168644633,18.86261183523261,0 99.96675254239558,18.86226701429452,0 99.96619670206213,18.86194723877585,0 99.96615551111735,18.86138003479209,0 99.96737278939686,18.86097553537745,0 99.96830372759085,18.86019267340136,0 99.96827818377159,18.85942712861339,0 99.96707289931103,18.85880932865378,0 99.96479055106113,18.85910848479183,0 99.96414854205318,18.85689267788785,0 99.96505571243357,18.85528522563709,0 99.9656810620052,18.85493903130464,0 99.9695153258187,18.85343407435893,0 99.97038463440603,18.85408389437823,0 99.97467415667187,18.8550284588702,0 99.97623531984894,18.85562365274218,0 99.97667078768451,18.85677525199012,0 99.97775593998428,18.85777255465004,0 99.97780691189905,18.85823441772737,0 99.9783790390575,18.85831860961715,0 99.97890054290734,18.85970034701318,0 99.97886834277577,18.86104918124917,0 99.98025784540221,18.86775434465588,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00028">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>13</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>582009.241866</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2066502.54516</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายเอกภาวิน เด็ดขาด</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.77566117567279,18.68432751167616,0 99.77618773861299,18.68461556459562,0 99.77761554470307,18.68410751601694,0 99.77964351517521,18.68316656096367,0 99.77959800822936,18.68144513613557,0 99.78287474849084,18.68200536793483,0 99.78247362289444,18.68480466102657,0 99.78014178394396,18.68513717218244,0 99.78071155414827,18.68628254384534,0 99.78312411480965,18.68713329629461,0 99.78575622338008,18.68662015567279,0 99.78617184942357,18.68604712120994,0 99.78732359345535,18.6860709855649,0 99.78742742563807,18.68500595140704,0 99.78989937162495,18.6851167370312,0 99.78983759229136,18.68614043101976,0 99.79075580474058,18.68929174353469,0 99.78075377774488,18.6912776199301,0 99.77387770418301,18.69378093120871,0 99.76759650912761,18.69336309320925,0 99.76486952680241,18.6892497249256,0 99.77384097297859,18.68682877861889,0 99.77566117567279,18.68432751167616,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00029">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 1 อ.แจ้ห่ม จ.ลำ</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 1 อ.แจ้ห่ม จ.ลำ</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>11</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 1 อ.แจ้ห่ม จ.ลำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>585314.57115</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2062494.13665</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสายัณห์ เวียงนาค</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.81332796485951,18.65495981803162,0 99.80481661091272,18.659388898971,0 99.80144146827708,18.66045658055275,0 99.80105046051682,18.65931455885506,0 99.80010753236819,18.65884513401822,0 99.79896557209499,18.65872804710652,0 99.80103230900043,18.65671457330233,0 99.80521870775296,18.6534387710453,0 99.80622929508795,18.64638061653941,0 99.80851681498443,18.64325865062111,0 99.81359783108933,18.64411666428683,0 99.81440601838283,18.64747427418901,0 99.81825546426033,18.6511979912163,0 99.81332796485951,18.65495981803162,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00030">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 7 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 7 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 7 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านพร้าว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านหวด</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>585387.731154</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2064400.58888</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายวิริชาติ  เทียนขุนทด</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.81832359384757,18.66278098867057,0 99.81770134337474,18.67353156969523,0 99.81346417269494,18.67524192893817,0 99.80797771339579,18.6755300892405,0 99.80486459514711,18.66735153165247,0 99.80283605933415,18.66810146268775,0 99.80084149223906,18.66860972371183,0 99.80013013163692,18.66670942152959,0 99.80111756833914,18.66542835151206,0 99.79931904231854,18.66387368730397,0 99.79966854057326,18.66304707817245,0 99.81308770016169,18.66539376323484,0 99.81832359384757,18.66278098867057,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00031">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 อ.แจ้ห่ม จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>583686.882318</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2064443.15667</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นางสาววริศรา  จันทร์เที่ยง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.80283605933415,18.66810146268775,0 99.80486459514711,18.66735153165247,0 99.80797771339579,18.6755300892405,0 99.80354214596181,18.67377625415349,0 99.78990622751907,18.67154251559638,0 99.78258095072117,18.67326945802967,0 99.78111071873018,18.67117411002508,0 99.78173970657988,18.66979781797482,0 99.77997869970969,18.669147866339,0 99.78586537611196,18.66612484480317,0 99.78667152880186,18.66342654570767,0 99.79362564241939,18.6657622378784,0 99.79681592438021,18.66460147770751,0 99.79810099812786,18.666000291815,0 99.796711337517,18.66774803481844,0 99.79820451578888,18.66838729850482,0 99.79812755269437,18.67075392890542,0 99.79867539260134,18.67176569768115,0 99.80000649879256,18.6716119086649,0 99.80133535211894,18.67144196392631,0 99.80283605933415,18.66810146268775,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00032">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>16</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>583099.816976</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2062266.22264</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสายัณห์ เวียงนาค</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.7920922646677,18.65712653215995,0 99.78973982931674,18.65640635218462,0 99.78692819621891,18.6584023101187,0 99.78677031848721,18.65688852001509,0 99.78545437228064,18.65664997609,0 99.78308027048186,18.65761545443047,0 99.77878228481893,18.65579692572287,0 99.77928118660344,18.65269908550037,0 99.78321547219849,18.65308152263733,0 99.7856176665811,18.65282137898528,0 99.78462955411925,18.64671768721316,0 99.78680642515636,18.64604550823217,0 99.78952577690855,18.64301928351302,0 99.79174473557852,18.63992738085386,0 99.79563722368064,18.6436052514556,0 99.79262941324139,18.64810198711698,0 99.79426732217333,18.64864681660699,0 99.79337825763432,18.6544137839052,0 99.7920922646677,18.65712653215995,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00033">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 อ.แม่เมาะ จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ก๋า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านดง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แม่เมาะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>580952.208894</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2065052.84242</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสายัณห์ เวียงนาค</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.77324352335813,18.67808353343327,0 99.76880438236984,18.68018016987272,0 99.76035607292725,18.68076864198978,0 99.75713314487851,18.67592287134271,0 99.75899363451109,18.67129221640734,0 99.76953027088425,18.67213973551476,0 99.77216723199844,18.67273864926667,0 99.77267386833989,18.66956640567216,0 99.77653799095054,18.66915114657773,0 99.77990172669161,18.66947642298188,0 99.7801841070609,18.66981041491896,0 99.77915267794326,18.67037174984299,0 99.77713863831633,18.67098458204771,0 99.7767890811663,18.67141875706846,0 99.77314540741662,18.67471263530784,0 99.77324352335813,18.67808353343327,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00034">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 4 อ.แม่เมาะ จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 4 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>7</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 4 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ก๋า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านดง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แม่เมาะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>585588.118215</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2063433.881</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายเอกภาวิน เด็ดขาด</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.81832359384757,18.66278098867057,0 99.81308770016169,18.66539376323484,0 99.79966854057326,18.66304707817245,0 99.79996486662908,18.6620415438109,0 99.79989259446717,18.66149989504547,0 99.80039199013059,18.66136145184577,0 99.80144146827708,18.66045658055275,0 99.80481661091272,18.659388898971,0 99.81332796485951,18.65495981803162,0 99.82028097382569,18.6560077178825,0 99.8223986699344,18.66069732596614,0 99.82082112011581,18.66153461433818,0 99.81832359384757,18.66278098867057,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00035">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 3 อ.งาว จ.ลำปาง</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 3 อ.งาว จ.ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>31</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 3 อ.งาว จ.ลำปาง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านห้วยหก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านอ้อน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>584316.625713</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2065852.20734</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายอภิสิทธิ์  พรหมเมฆ</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.80797771339579,18.6755300892405,0 99.80920691886783,18.67917619542506,0 99.80055774107889,18.68783801814431,0 99.79607255511731,18.68950251045791,0 99.79166244440358,18.68899136923661,0 99.79113230600686,18.6889976614085,0 99.79071452763426,18.68764126475299,0 99.79018583082144,18.68617055925008,0 99.79026852502656,18.68452511730526,0 99.79108515128729,18.6831635180331,0 99.79110109467061,18.68227395237779,0 99.79152285889731,18.68094673135682,0 99.79488586308638,18.68148515910347,0 99.80254978407692,18.67859008128483,0 99.80354214596181,18.67377625415349,0 99.80797771339579,18.6755300892405,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00036">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/1 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/1 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>12</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/1 แปลงที่ 2 อ.แจ้ห่ม จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>584303.02424</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2062409.58108</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสายัณห์ เวียงนาค</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.79896557209499,18.65872804710652,0 99.79736285233223,18.6594838281228,0 99.79621777608693,18.65869961208951,0 99.79367669161824,18.65710830704634,0 99.7920922646677,18.65712653215995,0 99.79337825763432,18.6544137839052,0 99.79426732217333,18.64864681660699,0 99.79705989413631,18.6492711434443,0 99.79713640397453,18.64790692207138,0 99.79441150893616,18.64578790261193,0 99.79701556819259,18.64366319598786,0 99.80182869300214,18.64303299160149,0 99.80622929508795,18.64638061653941,0 99.80521870775296,18.6534387710453,0 99.80103230900043,18.65671457330233,0 99.79896557209499,18.65872804710652,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00037">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/1 แปลงที่ 1 อ.แม่เมาะ จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/1 แปลงที่ 1 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/1 แปลงที่ 1 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ก๋า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านดง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แม่เมาะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>583651.947611</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2065210.17509</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายยุทธพงษ์ พิสูจน์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.80354214596181,18.67377625415349,0 99.80254978407692,18.67859008128483,0 99.79488586308638,18.68148515910347,0 99.79152285889731,18.68094673135682,0 99.7872965052501,18.68049061993708,0 99.78534217727885,18.67779444102195,0 99.78465914811673,18.67493511547721,0 99.78406067175622,18.67409115576087,0 99.78258095072117,18.67326945802967,0 99.78990622751907,18.67154251559638,0 99.80354214596181,18.67377625415349,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00038">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 3/5 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 3/5 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>36</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 3/5 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านแม่ฮ่าง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>นาแก</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>581461.077392</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2065799.55619</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายวชิรวิชญ์ เพชรประสิทธิ์กุล</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.77566117567279,18.68432751167616,0 99.77384097297859,18.68682877861889,0 99.76486952680241,18.6892497249256,0 99.76146586715583,18.68376561820687,0 99.76077387206244,18.68189690685834,0 99.76041085947892,18.6818362163783,0 99.76035607292725,18.68076864198978,0 99.76880438236984,18.68018016987272,0 99.77324352335813,18.67808353343327,0 99.77535080487526,18.67756579580507,0 99.77637682160537,18.67830336650417,0 99.77736016523778,18.67805962304658,0 99.77722016244543,18.67761784343739,0 99.77650448990519,18.6774773367199,0 99.77625494633898,18.67668572948826,0 99.77649142888139,18.67638394284685,0 99.77708317827752,18.67683079793076,0 99.77735798042151,18.6772027040958,0 99.7779959186521,18.67645889605835,0 99.77796739149812,18.67582278876345,0 99.78087103556066,18.67515361554484,0 99.78206698164092,18.6734058509809,0 99.78385578836725,18.67426174851643,0 99.78440824547013,18.67491879515208,0 99.78518018698631,18.67788176397916,0 99.78714958236,18.68058146742225,0 99.78644480004714,18.68087856751052,0 99.78466563851677,18.67862639735374,0 99.78319878474505,18.67881185837102,0 99.78305401955497,18.68006780498287,0 99.78233932027715,18.68014251910857,0 99.78131467908224,18.67828170586356,0 99.78386941488307,18.67733851421128,0 99.78300040876913,18.67658893526439,0 99.78351786751209,18.67454236002144,0 99.78221935716644,18.67440051697353,0 99.78199813012442,18.67604300302281,0 99.78044356426663,18.67640885346032,0 99.78040181995837,18.67715506024265,0 99.77929453061869,18.67761449649521,0 99.77831210033968,18.67708718286843,0 99.77738162636059,18.67758367795706,0 99.77775139984416,18.67893514497456,0 99.77702284103947,18.67954670556566,0 99.77718950619047,18.68013742387419,0 99.77566117567279,18.68432751167616,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00039">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 4/1 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 4/1 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>34</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 4/1 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านห้วยหก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านอ้อน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>589267.536982</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2066009.67305</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายอภิสิทธิ์ พรหมเมฆ</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.85446653726272,18.67967078296336,0 99.85398078769624,18.68532418731155,0 99.85205070431408,18.68866362477553,0 99.84919818753202,18.68956807769882,0 99.84804469267047,18.68993380444245,0 99.8416746954116,18.68836331033401,0 99.8409892403334,18.68647412869255,0 99.84011571735775,18.68406654367895,0 99.83972512119279,18.68298996616191,0 99.83850758787923,18.67963405037775,0 99.83969849016314,18.676743603467,0 99.84512896997163,18.67875662024374,0 99.85126276015887,18.67935718204899,0 99.85143647344135,18.6793741873792,0 99.85446653726272,18.67967078296336,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00040">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/2 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/2 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>32</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 5/2 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านห้วยหก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านอ้อน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>587960.075575</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2066377.84077</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสายัณห์ เวียงนาค</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.8416746954116,18.68836331033401,0 99.8408581695498,18.69201339169518,0 99.84050460024045,18.69413420903085,0 99.83988594233038,18.69635931106309,0 99.83745479058565,18.6940329874344,0 99.83745471578489,18.69403291558285,0 99.83308880835368,18.68981814665147,0 99.83249400743162,18.68923663565122,0 99.83106698516769,18.68783744958889,0 99.83042660840134,18.68720955309127,0 99.82952241544605,18.68632296995548,0 99.82766185988095,18.68449860615904,0 99.82636114542522,18.68322315818768,0 99.82532685217946,18.68220893579031,0 99.82593087591354,18.67840921800206,0 99.82964549341361,18.68014083639811,0 99.83100241149863,18.68077335452605,0 99.83116619788163,18.68084970143786,0 99.83460250016546,18.68245143891492,0 99.83850758787923,18.67963405037775,0 99.83972512119279,18.68298996616191,0 99.84011571735775,18.68406654367895,0 99.8409892403334,18.68647412869255,0 99.8416746954116,18.68836331033401,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00041">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>30</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 6/1 แปลงที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านห้วยหก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านอ้อน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>588307.286792</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2064444.48406</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายเอกภาวิน เด็ดขาด</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.83969849016314,18.676743603467,0 99.83850758787923,18.67963405037775,0 99.8359102090821,18.67515250307617,0 99.83482912827121,18.67328711137408,0 99.83383019771661,18.67156342395013,0 99.83364405336539,18.67124222109813,0 99.83252446360152,18.66931027286468,0 99.83237951718424,18.66906015158201,0 99.8314130520119,18.66739238468436,0 99.83034429791525,18.66554805938528,0 99.8298102762258,18.66462649169652,0 99.83754325452,18.6607666699472,0 99.83854360891091,18.66139043171991,0 99.8395058575433,18.6619904234348,0 99.84063469594548,18.6626942771269,0 99.84215646975544,18.66364311368899,0 99.84450957758783,18.6651102467005,0 99.84316115544523,18.66833877252241,0 99.84219380339802,18.67068688588418,0 99.8401473660946,18.67565410727307,0 99.83969849016314,18.676743603467,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00042">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 แปลงที่ 3 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 แปลงที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>33</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 7/11 แปลงที่ 3 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านห้วยหก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านอ้อน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>589348.330056</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2064826.39968</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสายัณห์ เวียงนาค</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.8509587019804,18.66568226074087,0 99.85153179723265,18.66939318158864,0 99.8518229045668,18.67127809238655,0 99.8534093405908,18.67418358822216,0 99.85431690912293,18.67584571168539,0 99.85446653726272,18.67967078296336,0 99.85143647344135,18.6793741873792,0 99.85126276015887,18.67935718204899,0 99.84512896997163,18.67875662024374,0 99.83969849016314,18.676743603467,0 99.84055060003199,18.67468329421119,0 99.84158181930509,18.67222620272866,0 99.84241291769082,18.67021658732554,0 99.84240075984786,18.67020963259857,0 99.8432611894264,18.66812904384507,0 99.84450957758783,18.6651102467005,0 99.84693382414406,18.66532529472999,0 99.84720680792059,18.66534950835988,0 99.8506914211716,18.66565855817046,0 99.8509587019804,18.66568226074087,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00043">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 แปลงที่ 2 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 แปลงที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>35</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 แปลงที่ 2 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านห้วยหก</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านอ้อน</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>587612.535648</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2064962.1482</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นางสาววริศรา  จันทร์เที่ยง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.83482912827121,18.67328711137408,0 99.83482144299936,18.67329121061645,0 99.83627423920352,18.67579798271001,0 99.83849755289279,18.67963409520812,0 99.83771243548071,18.68020054406,0 99.83460250016546,18.68245143891492,0 99.83116619788163,18.68084970143786,0 99.83100241149863,18.68077335452605,0 99.82964549341361,18.68014083639811,0 99.82593087591354,18.67840921800206,0 99.82501912540965,18.67570562450256,0 99.8239539350149,18.67254691786972,0 99.82356372177263,18.67138975089245,0 99.82716979904986,18.66748547351566,0 99.8298102762258,18.66462649169652,0 99.83034429791525,18.66554805938528,0 99.8314130520119,18.66739238468436,0 99.83237951718424,18.66906015158201,0 99.83252446360152,18.66931027286468,0 99.83364405336539,18.67124222109813,0 99.83383019771661,18.67156342395013,0 99.83482912827121,18.67328711137408,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00044">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 แปลงที่ 3 อ.แม่เมาะ จ.ลำปาง2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 แปลงที่ 3 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูป่าต้นน้ำจังหวัดลำปาง ที่ 8/2 แปลงที่ 3 อ.แม่เมาะ จ.ลำปาง2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>500</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ก๋า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านดง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แม่เมาะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>590713.808102</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2063574.0375</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นางสาววริศรา  จันทร์เที่ยง</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.85356614193495,18.65884426151208,0 99.85744705229627,18.65856444501549,0 99.86032362476674,18.65701359653469,0 99.86538536849226,18.65781550076066,0 99.86557095081531,18.65980254852579,0 99.865869876248,18.66300305646812,0 99.8651353392015,18.66350010734148,0 99.86156938849578,18.66591305392909,0 99.85766440442218,18.66496778681807,0 99.85685590278764,18.66375978634048,0 99.85549974040298,18.6617334660594,0 99.85547461441331,18.66169592331211,0 99.85356614193495,18.65884426151208,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00045">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 4 อ.แจ้ห่ม จ.ลำ</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 4 อ.แจ้ห่ม จ.ลำ</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 4 อ.แจ้ห่ม จ.ลำ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>บ้านนาไหม้</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แจ้ห่ม</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>587431.334294</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2066660.55597</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายอภิสิทธิ์ พรหมเมฆ</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.83988594233038,18.69635931106309,0 99.83445636332941,18.6986379231828,0 99.83047353617131,18.69580070754881,0 99.82641235564935,18.69290748673274,0 99.8233755274001,18.69074389906092,0 99.82122701208384,18.68921312452659,0 99.82073108280657,18.6889872352811,0 99.81910297838743,18.68824564154076,0 99.82167967126013,18.68453375791088,0 99.82593087591354,18.67840921800206,0 99.82532685217946,18.68220893579031,0 99.82636114542522,18.68322315818768,0 99.82766185988095,18.68449860615904,0 99.82952241544605,18.68632296995548,0 99.83042660840134,18.68720955309127,0 99.83106698516769,18.68783744958889,0 99.83249400743162,18.68923663565122,0 99.83297739628861,18.6897105872417,0 99.83308880835368,18.68981814665147,0 99.8348718059878,18.69156126955329,0 99.83643987625189,18.69306180543349,0 99.83745471578489,18.69403291558285,0 99.83745479058565,18.6940329874344,0 99.83988594233038,18.69635931106309,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00046">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 5 อ.แม่เมาะ จ.ล</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 5 อ.แม่เมาะ จ.ล</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่สงวนแห่งชาติ ป่าแม่ต๋าและป่าแม่มาย ที่ 5 อ.แม่เมาะ จ.ล</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>1000</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ก๋า</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>บ้านดง</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>แม่เมาะ</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>589568.865162</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2063551.9246</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสุรพล วีระพงษ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.86156938849578,18.66591305392909,0 99.85685460094361,18.66768358286487,0 99.85514178818094,18.66710220429607,0 99.8509587019804,18.66568226074087,0 99.8506914211716,18.66565855817046,0 99.84720680792059,18.66534950835988,0 99.84693382414406,18.66532529472999,0 99.84450957758783,18.6651102467005,0 99.84215646975544,18.66364311368899,0 99.84063469594548,18.6626942771269,0 99.8395058575433,18.6619904234348,0 99.83854360891091,18.66139043171991,0 99.83754325452,18.6607666699472,0 99.84395504136138,18.65742367155902,0 99.85037515673609,18.65407598517893,0 99.85152902284707,18.65580024089348,0 99.85326732949412,18.65839776166455,0 99.85356614193495,18.65884426151208,0 99.85547461441331,18.66169592331211,0 99.85549974040298,18.6617334660594,0 99.85685590278764,18.66375978634048,0 99.85766440442218,18.66496778681807,0 99.86156938849578,18.66591305392909,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00047">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>600</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ตีบหลวง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แม่ตีบ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>605013.176106</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2055545.08041</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสุทัศน์  สสิพรรณ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										99.99915166000709,18.5938444476558,0 99.99894485692998,18.59499015247641,0 99.99885587991859,18.59578881434455,0 99.99432837655228,18.59509403350106,0 99.99064607369353,18.59450184025681,0 99.98861513504021,18.5941732308734,0 99.99112993805674,18.59090394085763,0 99.98858622367919,18.59022885293967,0 99.99461182719871,18.58255971043769,0 99.99463656578347,18.58165960497912,0 99.99511572566063,18.58162374407046,0 99.99501920428702,18.58220042789841,0 99.99565594169844,18.58308652841874,0 99.99636350951924,18.58168679475737,0 99.99694187565217,18.58162147804216,0 99.99742075842909,18.58059552095784,0 99.99740381357128,18.57914765918991,0 99.99899365378155,18.58039538420515,0 99.99963219754699,18.58101555194385,0 99.99922410641385,18.58157880076135,0 99.99845435383862,18.58187572760961,0 99.99766084025413,18.58195135491311,0 99.99647218730193,18.58234334465342,0 99.99638296806796,18.58278057791031,0 99.99744457692884,18.58275842858151,0 99.99718784780022,18.58326215332835,0 99.99587423748018,18.58385003318288,0 99.99602361302432,18.58454163505887,0 99.99696038137597,18.58494738559416,0 99.99808916606962,18.5858697894919,0 99.99928095907261,18.5857889423956,0 99.99973618375026,18.58602372377423,0 99.99964210756397,18.58466265559334,0 100.0000051079207,18.58397325045994,0 100.0000564028751,18.58249445020963,0 100.0009212095256,18.58180059527207,0 100.0013795319515,18.58204458276284,0 100.0015767080828,18.58294818320146,0 100.0019332494966,18.58395843037203,0 100.0023856886203,18.58535074396188,0 100.0019906933605,18.58537070062146,0 100.0010050108917,18.5858902079561,0 100.0005584837347,18.58638542121647,0 99.999425987313,18.58741997047841,0 99.99860211371463,18.58743147991368,0 99.99842783291113,18.58708777043447,0 99.99843898528907,18.58643058772046,0 99.99779458746028,18.58639114410932,0 99.99638994325981,18.58732176222402,0 99.99566639741577,18.58816395458027,0 99.99392962332524,18.59091947196093,0 99.99395781178215,18.59190500934909,0 99.99425524036545,18.59281769968705,0 99.99480360272391,18.59340675263849,0 99.99576938118153,18.59380163969281,0 99.99680455819394,18.5937318824945,0 99.99755826377468,18.59292077491308,0 99.99823565453204,18.59154758554185,0 99.99856077975399,18.59046107381625,0 99.99890223045716,18.589927137234,0 99.99951187325132,18.58978462338034,0 100.0001022330672,18.59018862211393,0 99.99976184654882,18.59250910849952,0 99.99915166000709,18.5938444476558,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+				<Placemark id="ID_00048">
+					<name>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 1 อ.งาว จ.ลำปาง 2565</name>
+					<Snippet maxLines="0"></Snippet>
+					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>no</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Name_1</td>
+
+<td>โครงการฯ กฟผ. พื้นที่หน่วยฟื้นฟูสภาพป่าสงวนแห่งชาติ ป่าแม่งาวฝั่งขวา ที่ 1 อ.งาว จ.ลำปาง 2565</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RAI</td>
+
+<td>700</td>
+
+</tr>
+
+<tr>
+
+<td>VILLAGE</td>
+
+<td>แม่ตีบหลวง</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TAMBON</td>
+
+<td>แม่ตีบ</td>
+
+</tr>
+
+<tr>
+
+<td>AMPHOE</td>
+
+<td>งาว</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROV</td>
+
+<td>ลำปาง</td>
+
+</tr>
+
+<tr>
+
+<td>X</td>
+
+<td>607019.235197</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Y</td>
+
+<td>2056963.79963</td>
+
+</tr>
+
+<tr>
+
+<td>ZONE</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>DATUM</td>
+
+<td>WGS 1984</td>
+
+</tr>
+
+<tr>
+
+<td>OFFICER</td>
+
+<td>นายสุทัศน์  สสิพรรณ์</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+					<styleUrl>#PolyStyle00</styleUrl>
+					<MultiGeometry>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										100.021383132226,18.60206346087309,0 100.022021568269,18.60263836048481,0 100.021221771572,18.6028463768991,0 100.022020507705,18.60360217305149,0 100.022494379256,18.60404555314029,0 100.022876694888,18.60525929248799,0 100.023682408242,18.6064886216799,0 100.023843725777,18.6071005946284,0 100.023818902053,18.60768781679549,0 100.023675446671,18.6088735707141,0 100.023473298856,18.6092545331695,0 100.021599766871,18.61059619876189,0 100.02091975248,18.6117716205281,0 100.020683075138,18.6117511050851,0 100.019999326948,18.61117725487159,0 100.019221386516,18.61032283700531,0 100.018410434798,18.60941723783951,0 100.017819924361,18.6087692470945,0 100.017781625301,18.6082184524685,0 100.0175331337,18.6076594016339,0 100.017741756984,18.60740364462459,0 100.016918823757,18.60595127495731,0 100.016810550609,18.60545047140639,0 100.015692325525,18.6042626019156,0 100.015385018309,18.60348004130421,0 100.0150310805117,18.60286955587445,0 100.014710893265,18.602014334711,0 100.0139469672897,18.60241116318069,0 100.0130460846868,18.60056695809696,0 100.012185511251,18.6011030345811,0 100.012334549864,18.60067150272,0 100.012924021651,18.6001234158798,0 100.012912840825,18.5997707970013,0 100.012561071229,18.59924366960899,0 100.012014197767,18.59827818614739,0 100.01116692984,18.59829574440691,0 100.010236307484,18.5967743873611,0 100.010403077195,18.59626470972479,0 100.011248139583,18.59561841514351,0 100.011069577116,18.5951568431852,0 100.010421078792,18.59430456657429,0 100.008869016212,18.59315869741189,0 100.0033866332116,18.59589908673906,0 100.0032574607245,18.59472289302304,0 100.0035867294265,18.59386592286037,0 100.0037212726523,18.59235528218245,0 100.005121363422,18.59204923922859,0 100.005895287367,18.59064595322669,0 100.005235637648,18.589787241366,0 100.004367854685,18.59027135460011,0 100.003130104753,18.5909561746578,0 100.002973221231,18.59107568337149,0 100.0028636896369,18.59091574017997,0 100.0027778273476,18.5903233581449,0 100.0029245809149,18.58980116463998,0 100.0034782250445,18.58926371016287,0 100.0039060753337,18.58905091622694,0 100.004459020529,18.5896563548758,0 100.006948244721,18.58922422589671,0 100.008271658691,18.5910914486496,0 100.009711486765,18.59274928074491,0 100.010666519959,18.5941155670888,0 100.011316377564,18.59442105289159,0 100.011553072558,18.59425686247469,0 100.0126561552718,18.59652386684914,0 100.013065357117,18.59736482144049,0 100.015100560883,18.60110035640109,0 100.016666326181,18.6009864739773,0 100.017721182016,18.5998692353392,0 100.018707691308,18.5994505882838,0 100.019896214361,18.59997594488229,0 100.020269429276,18.6008868623163,0 100.020986691127,18.60098263339129,0 100.021383132226,18.60206346087309,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+		</Document>
+	</Folder>
+</Document>
+</kml>
