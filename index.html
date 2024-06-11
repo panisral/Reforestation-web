@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="css/bootstrap-5.3.3-dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="css/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+    <title>Reforestation</title>
+  </head>
+  <body style="height: 1500px">
+    <nav class="navbar navbar-expand-sm bg-tranparent navbar-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">EGAT</a>
+        <a class="menu-navbar" href="$#">Home</a>
+        <a class="menu-navbar" href="$#">Home</a>
+        <a class="menu-navbar" href="$#">Home</a>
+        <a class="menu-navbar" href="$#">Home</a>
+        <a class="menu-navbar" href="$#">Home</a>
+      </div>
+    </nav>
+
+    <!-- The video -->
+    <div class="video-container">
+      <video autoplay muted loop id="myVideo">
+        <source src="video/exampleVDO.mp4" type="video/mp4" />
+      </video>
+    </div>
+
+    <!-- เนื้อหาส่วนอื่นๆ ของหน้าเว็บ -->
+    <div class="content container">
+      <h2>Section 1</h2>
+      <p>This is the first section of the webpage.</p>
+      <h2>Section 2</h2>
+      <p>This is the second section of the webpage.</p>
+      <!-- เพิ่มเนื้อหาตามต้องการ -->
+    </div>
+
+    <!------------------------------------------------------------------------->
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnVPyj9T5XQhRhXMVzILQi8b5PQ3DZP_w&callback=initMap"
+    ></script>
+
+    <h3>แผนที่</h3>
+    <div id="map1"></div>
+
+    <h3>แผนที่พร้อมการกรองข้อมูล</h3>
+    <div id="filter-controls">
+      <label for="district-select">เลือกอำเภอ:</label>
+      <select id="district-select">
+        <option value="all">ทั้งหมด</option>
+        <!-- Add options for each district dynamically -->
+      </select>
+    </div>
+    <div id="map2"></div>
+
+    <script>
+      let map1, map2;
+      let geoJsonLayer;
+
+      function initMap() {
+        // Initialize the first map
+        map1 = new google.maps.Map(document.getElementById("map1"), {
+          zoom: 10,
+          center: { lat: 18.275, lng: 99.4926 }, // ตำแหน่งเริ่มต้นที่จังหวัดลำปาง
+        });
+
+        var kmzLayer = new google.maps.KmlLayer({
+          url: "https://drive.google.com/uc?export=download&id=1S7fxTifjfm2NqpSCvn1EWeC0gNoCKIrB",
+          map: map1,
+        });
+
+        // Initialize the second map
+        map2 = new google.maps.Map(document.getElementById("map2"), {
+          zoom: 8,
+          center: { lat: 18.275, lng: 99.4926 }, // ตำแหน่งเริ่มต้นที่จังหวัดลำปาง
+        });
+
+        // Load GeoJSON data for the second map
+        geoJsonLayer = new google.maps.Data();
+        geoJsonLayer.loadGeoJson(
+          "https://drive.google.com/uc?export=download&id=1Gm7RGFr96ZIkMagoRNB0p1JCIDiGKXB2",
+          null,
+          function (features) {
+            console.log("GeoJSON Loaded", features); // Log loaded features
+            // Populate the district select options dynamically
+            const districtSelect = document.getElementById("district-select");
+            const districts = new Set();
+            features.forEach((feature) => {
+              console.log("Feature properties:", feature.getProperty("AMPHOE")); // Log feature properties
+              districts.add(feature.getProperty("AMPHOE"));
+            });
+
+            districts.forEach((district) => {
+              const option = document.createElement("option");
+              option.value = district;
+              option.textContent = district;
+              districtSelect.appendChild(option);
+            });
+          }
+        );
+
+        geoJsonLayer.setMap(map2);
+
+        // Add event listener for the select element
+        document
+          .getElementById("district-select")
+          .addEventListener("change", function () {
+            const selectedDistrict = this.value;
+            geoJsonLayer.setStyle(function (feature) {
+              if (selectedDistrict === "all") {
+                return { visible: true };
+              }
+              return {
+                visible: feature.getProperty("AMPHOE") === selectedDistrict,
+              };
+            });
+          });
+
+        geoJsonLayer.addListener("addfeature", function () {
+          // Populate the district select options dynamically
+          const districtSelect = document.getElementById("district-select");
+          const districts = new Set();
+          geoJsonLayer.forEach((feature) => {
+            districts.add(feature.getProperty("AMPHOE"));
+          });
+
+          districts.forEach((district) => {
+            const option = document.createElement("option");
+            option.value = district;
+            option.textContent = district;
+            districtSelect.appendChild(option);
+          });
+        });
+      }
+    </script>
+  </body>
+</html>
