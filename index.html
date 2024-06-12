@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="th">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="css/bootstrap-5.3.3-dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="css/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+    <title>Reforestation</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm bg-transparent navbar-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="https://www.egat.co.th/home/">EGAT</a>
+        <a class="menu-navbar" href="#">Home</a>
+        <a class="menu-navbar" href="#">About</a>
+        <a class="menu-navbar" href="#">Projects</a>
+        <a class="menu-navbar" href="#">Contact</a>
+      </div>
+    </nav>
+
+    <!-- The video -->
+    <div class="video-container">
+      <video autoplay muted loop id="myVideo">
+        <source src="video/exampleVDO.mp4" type="video/mp4" />
+      </video>
+    </div>
+
+    <!-- เนื้อหาส่วนอื่นๆ ของหน้าเว็บ -->
+    <div class="content container">
+      <h2>Section 1</h2>
+      <p>This is the first section of the webpage.</p>
+      <h2>Section 2</h2>
+      <p>This is the second section of the webpage.</p>
+    </div>
+
+    <div class="container">
+      <h3>แผนที่</h3>
+      <div id="map1" style="height: 500px"></div>
+    </div>
+
+    <div class="container">
+      <h3>แผนที่พร้อมการกรองข้อมูล</h3>
+      <div id="filter-controls">
+        <label for="district-select">เลือกอำเภอ:</label>
+        <select id="district-select">
+          <option value="all">ทั้งหมด</option>
+          <option value="งาว">งาว</option>
+          <option value="แม่ทะ">แม่ทะ</option>
+          <option value="เมืองปาน">เมืองปาน</option>
+          <option value="แจ้ห่ม">แจ้ห่ม</option>
+          <option value="แม่เมาะ">แม่เมาะ</option>
+        </select>
+      </div>
+      <div id="map2" style="height: 500px"></div>
+    </div>
+
+    <!-- Load Google Maps JavaScript API -->
+
+    <script src="js/main.js"></script>
+    <!-- Link to external JS file -->
+  </body>
+</html>
