@@ -1,0 +1,55 @@
+#map1, #map2 {
+  height: 50vh;
+  width: 100%;
+}
+/* กำหนดให้หน้าเว็บไม่มี margin และ padding */
+html, body {
+  height: 500vh;
+  margin: 0;
+  padding: 0;
+}
+.site-navbar {
+  margin-bottom: 0px;
+  z-index: 1999;
+  position: absolute;
+  top: 2rem;
+  width: 100%; }
+  .site-navbar.transparent {
+    background: transparent; }
+  .site-navbar.absolute {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; }
+.menu-navbar + .menu-navbar {
+  margin-left: 5%;
+  margin-bottom: 0px;
+  color: aliceblue;
+  margin-right: 0%;
+}
+#myVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* ทำให้วิดีโออยู่ข้างหลังเนื้อหาอื่น */
+}
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 50vh; /* ทำให้ container สูงเท่ากับครึ่งหนึ่งของความสูงของ viewport */
+  overflow: hidden; /* ซ่อนส่วนที่เกินออกมา */
+}
+.content {
+  margin-top: 20px;
+}
+
+#filter-controls {
+  margin-bottom: 20px; /* ระยะห่างของส่วนควบคุมกรอง */
+}
+
+#district-select {
+  padding: 5px; /* การเพิ่มขอบของดรอปดาวน์ */
+}
