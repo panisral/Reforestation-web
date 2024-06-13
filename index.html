@@ -38,24 +38,78 @@
       <p>This is the second section of the webpage.</p>
     </div>
 
-    <div class="container">
-      <h3>แผนที่</h3>
-      <div id="map1" style="height: 500px"></div>
+    <div class="content container">
+      <div class="btn">
+        <button
+          type="button"
+          class="btn btn-primary dropdown-toggle"
+          data-bs-toggle="dropdown"
+        >
+          ปี
+        </button>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">2565</a></li>
+          <li><a class="dropdown-item" href="#">2566</a></li>
+          <li><a class="dropdown-item" href="#">2567</a></li>
+        </ul>
+      </div>
     </div>
 
-    <div class="container">
+    <div class="container-fluid">
+      <h3>แผนที่</h3>
+      <div id="map1"></div>
+    </div>
+    <br />
+    <div class="container-fluid">
       <h3>แผนที่พร้อมการกรองข้อมูล</h3>
-      <div id="filter-controls">
-        <label for="district-select">เลือกอำเภอ:</label>
-        <select id="district-select">
-          <option value="all">ทั้งหมด</option>
-          <option value="งาว">งาว</option>
-          <option value="แม่ทะ">แม่ทะ</option>
-          <option value="เมืองปาน">เมืองปาน</option>
-          <option value="แจ้ห่ม">แจ้ห่ม</option>
-          <option value="แม่เมาะ">แม่เมาะ</option>
-        </select>
+      <div class="row">
+        <div class="col-4">
+          <div id="filter-controls">
+            <label for="district-select" class="form-label me-2"
+              >เลือกอำเภอ</label
+            >
+            <select id="district-select" class="form-select">
+              <option value="all">ทั้งหมด</option>
+              <option value="งาว">งาว</option>
+              <option value="แม่ทะ">แม่ทะ</option>
+              <option value="เมืองปาน">เมืองปาน</option>
+              <option value="แจ้ห่ม">แจ้ห่ม</option>
+              <option value="แม่เมาะ">แม่เมาะ</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="col-4">
+          <div id="filter-controls">
+            <label for="district-select" class="form-label me-2"
+              >เลือกอำเภอ</label
+            >
+            <select id="district-select" class="form-select">
+              <option value="all">ทั้งหมด</option>
+              <option value="งาว">งาว</option>
+              <option value="แม่ทะ">แม่ทะ</option>
+              <option value="เมืองปาน">เมืองปาน</option>
+              <option value="แจ้ห่ม">แจ้ห่ม</option>
+              <option value="แม่เมาะ">แม่เมาะ</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="col-4">
+          <div id="filter-controls">
+            <label for="district-select" class="form-label me-2">ป</label>
+            <select id="district-select" class="form-select">
+              <option value="all">ทั้งหมด</option>
+              <option value="งาว">งาว</option>
+              <option value="แม่ทะ">แม่ทะ</option>
+              <option value="เมืองปาน">เมืองปาน</option>
+              <option value="แจ้ห่ม">แจ้ห่ม</option>
+              <option value="แม่เมาะ">แม่เมาะ</option>
+            </select>
+          </div>
+        </div>
       </div>
+
       <div id="map2" style="height: 500px"></div>
     </div>
 
