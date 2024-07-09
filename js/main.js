@@ -1,4 +1,4 @@
-let map1, map2;
+ let map1, map2;
       let districtBounds = {
         "งาว": { lat: 18.6138, lng: 99.8813 },
         "แม่ทะ": { lat: 18.1853, lng: 99.6855 },
